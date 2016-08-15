@@ -22,3 +22,7 @@ Build a particular scheme
 `xcodebuild -scheme <your_scheme_name> build`
 
 XCode command line commands from [here](https://developer.apple.com/library/ios/technotes/tn2339/_index.html)
+
+After pulling from this repository, remove and replace the origin remote before I accidentally overwrite the template.
+
+`git remote rm origin`
